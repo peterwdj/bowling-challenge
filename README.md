@@ -18,7 +18,11 @@ This project is incomplete and not yet able to be properly run.
 
 ## Approach
 
-My initial approach to this challenge was severely flawed, marked by a lack of proper planning and a lack of recognition of the complexity of bowling. After creating a mess of code which did not properly scale, I decided to start again from scratch. When rewriting the code, I began by diagramming out in detail (on paper) all possible different permutations within a game of ten-pin bowling, and writing out (again on paper) pseudo-code for how this could implemented with JavaScript. I am yet to translate this pseudo-code into real code. 
+My initial approach to this challenge was severely flawed, marked by a lack of proper planning and a lack of recognition of the complexity of bowling. After creating a mess of code which did not properly scale, I decided to start again from scratch. When rewriting the code, I began by diagramming out in detail (on paper) all possible different permutations within a game of ten-pin bowling, and writing out (again on paper) pseudo-code for how this could implemented with JavaScript. I am yet to translate this pseudo-code into real code. Samples are provided below.
+
+![Pseudo-code 1](readmeImages/IMG_20171223_000420.jpg)
+![Pseudo-code 2](readmeImages/IMG_20171223_000435.jpg)
+![Pseudo-code 3](readmeImages/IMG_20171223_000435.jpg)
 
 
 ## Challenges
